@@ -21,11 +21,11 @@ Alternatively, you can press Windows + R to open the Run dialog, type sysdm.cpl,
 
 <p align="center">
 Select system : <br/>
-<img src="https://i.imgur.com/BsalUWG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BsalUWG.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Click on system protection from the left-hand menu:  <br/>
-<img src="https://i.imgur.com/IcYOFVI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IcYOFVI.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <h2>Step 2: Enable System Protection
@@ -35,11 +35,11 @@ Select the drive for which you want to enable System Protection. Typically, this
 Click the Configure button to adjust protection settings for the selected drive.
 <h2>
 Click on tab labeled system protection : <br/>
-<img src="https://i.imgur.com/C82IX9x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C82IX9x.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
   Click the configure button to adjust protection settings for the selected drive <br/>
-<img src="https://i.imgur.com/CdBmcAZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CdBmcAZ.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
   Step 3: Turn On System Protection
@@ -50,7 +50,7 @@ Click Apply, then click OK to save the changes.
 <br/>
 
  Select the turn on system protection option and click ok to save the changes:  <br/>
-<img src="https://i.imgur.com/amdgAvS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/amdgAvS.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Step 4: Create a System Restore Point
@@ -62,16 +62,16 @@ Click Create and wait for Windows to create the restore point. Once complete, yo
 
 
 Enter a descriptive name for the restore point and click create :  <br/>
-<img src="https://i.imgur.com/QN6QRtq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QN6QRtq.png" height="80%" width="80%" alt=""/>
 
 <br />
 <br />
 
 Observe creating restore point :  <br/>
-<img src="https://i.imgur.com/iqZwOkb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iqZwOkb.png" height="80%" width="80%" alt=""/>
 <br/>
 <br/>
-<img src="https://i.imgur.com/iXtCyom.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iXtCyom.png" height="80%" width="80%" alt=""/>
 </p>
 
 <!--
